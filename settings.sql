@@ -1,0 +1,3 @@
+CREATE DATABASE admirb;
+CREATE USER superuser WITH PASSWORD 'superpw';
+GRANT ALL PRIVILEGES ON DATABASE admirb TO superuser;

@@ -1,0 +1,1 @@
+web: gunicorn amirb_django.wsgi
